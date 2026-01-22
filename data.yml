@@ -1,0 +1,8 @@
+# data.yaml - Configuración para YOLO custom emociones
+
+train: /home/marco/Escritorio/Yolo/yoloTrain/img
+val: /home/marco/Escritorio/Yolo/YoloVal/img
+
+nc: 7
+
+names: [ 'Felicidad', 'Ira', 'Desagradado', 'Sorpresa', 'Neutral', 'Triste', 'Miedo' ]
